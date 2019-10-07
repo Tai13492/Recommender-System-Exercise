@@ -7,7 +7,7 @@ Created on Wed Oct  2 10:50:09 2019
 
 import pickle
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 from datetime import datetime
 
 path_to_dir = '../user-user-collaborative-filtering/dictionaries'
